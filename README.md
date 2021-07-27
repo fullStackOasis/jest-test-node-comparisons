@@ -1,5 +1,7 @@
 # Demo for Jest tests on node files
 
+[![Node.js CI](https://github.com/fullStackOasis/jest-test-node-comparisons/actions/workflows/node.js.yml/badge.svg)](https://github.com/fullStackOasis/jest-test-node-comparisons/actions/workflows/node.js.yml)
+
 To run the tests, do:
 
 
