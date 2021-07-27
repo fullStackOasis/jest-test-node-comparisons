@@ -1,0 +1,15 @@
+{
+  "name": "node-comparisons",
+  "version": "1.0.0",
+  "description": "testing Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "fullStackOasis",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  }
+}
